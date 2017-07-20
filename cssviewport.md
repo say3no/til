@@ -9,4 +9,5 @@
 
 ## Reference
 [もう逃げない。HTMLのviewportをちゃんと理解する - Qiita](http://qiita.com/ryounagaoka/items/045b2808a5ed43f96607)
-(レスポンシブ ウェブデザインの基本  |  Web  |  Google Developers)[https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=ja]
+
+[レスポンシブ ウェブデザインの基本  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=ja)
