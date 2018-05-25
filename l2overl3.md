@@ -5,6 +5,7 @@
  - [Layer2 over Layer3 たる VXLAN - 理系学生日記](https://kiririmode.hatenablog.jp/entry/20150603/1433263336)
 
 この記事がすごく分かりやすかった。
+VLANが管理できるホストの数が4096**しか**ないという状況がインフラ事業者にはあって、この問題を解決するために、L3のペイロードにL2の領域を仮想的に割り当てて使って作成されたのが、L2 over L3 networkであり、VXLANらしい。
 
 ## 参考
  - [Network Virtualization Overlays (nvo3)](https://datatracker.ietf.org/wg/nvo3/charter/)
